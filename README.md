@@ -8,6 +8,8 @@ This is based on original paper : http://www.cs.toronto.edu/~hinton/absps/imagen
 Get started :
 
 python version > 3
+
+
 pip install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch
 
 
